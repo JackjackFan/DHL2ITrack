@@ -1,7 +1,10 @@
 # DHL2ITrack
+![visualization_triple](https://github.com/JackjackFan/DHL2ITrack/assets/39787448/39e2864d-488d-4e62-949e-5bb457f02aa0)
+![visualization_draw_lolt156](https://github.com/JackjackFan/DHL2ITrack/assets/39787448/22bde45b-f52b-4260-bde1-1808bab89fc4)
+<br>
 -- This is a low-light infared tracking method based on homomorphic filtering. Our paper has been submitted to ICASSP2024《DEEP HOMOMORPHIC FILTERING ENHANCED FUSION TRACKING NETWORK FOR LOW LIGHT AND INFRARED》<br><br>
 -- Our LOLT156 dataset has been submitted to the 37th Conference on Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks(《LOLT156: A Low-Light and Thermal Infrared Object Tracking Benchmark》---Chen Sun,Xinyu Wang,Shenghua Fan. et al), and is available at https://github.com/ChenSun-WHU/LOL-T.git <br><br><br><br><br>
---- Our DHL2ITrack v2 code based on online tracker mdnet has been uploaded, and lateset version of DHL2ITrack in 《DEEP HOMOMORPHIC FILTERING ENHANCED FUSION TRACKING NETWORK FOR LOW LIGHT AND INFRARED》 is comong soon.<br><br><br><br>
+--- Our tracker-v2 based on online tracker mdnet has been uploaded, and lateset version of DHL2ITrack based on dimp in 《DEEP HOMOMORPHIC FILTERING ENHANCED FUSION TRACKING NETWORK FOR LOW LIGHT AND INFRARED》 is comong soon.<br><br><br><br>
 Tracking results on LOLT156  
 ![lolt156_sr](https://github.com/JackjackFan/DHL2ITrack/assets/39787448/443c7c10-369b-4401-84b2-4ccf79a5b4e3)
 ![lolt156_pr](https://github.com/JackjackFan/DHL2ITrack/assets/39787448/8c8da34b-a932-4c49-9361-35232a328272)
